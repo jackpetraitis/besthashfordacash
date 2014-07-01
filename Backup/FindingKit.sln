@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFindItems", "Samples\ConsoleFindItems\ConsoleFindItems.csproj", "{A1727E69-AD65-4ACD-8340-9E9258465CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBay.Services", "eBay.Services\eBay.Services.csproj", "{742D29F1-BBCE-4C7F-ABA8-239DE44F8D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAndWatch", "Samples\FindAndWatch\FindAndWatch.csproj", "{0A348A49-74ED-4784-9E63-EC7F6D626F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1727E69-AD65-4ACD-8340-9E9258465CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1727E69-AD65-4ACD-8340-9E9258465CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1727E69-AD65-4ACD-8340-9E9258465CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1727E69-AD65-4ACD-8340-9E9258465CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742D29F1-BBCE-4C7F-ABA8-239DE44F8D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742D29F1-BBCE-4C7F-ABA8-239DE44F8D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742D29F1-BBCE-4C7F-ABA8-239DE44F8D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742D29F1-BBCE-4C7F-ABA8-239DE44F8D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A348A49-74ED-4784-9E63-EC7F6D626F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A348A49-74ED-4784-9E63-EC7F6D626F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A348A49-74ED-4784-9E63-EC7F6D626F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A348A49-74ED-4784-9E63-EC7F6D626F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

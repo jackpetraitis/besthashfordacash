@@ -1,0 +1,67 @@
+averagedCash: [ 
+{
+"CardId": "5970",
+"CardName": "Radeon 5970",
+"CardAvgPrice": "NaN"
+},
+{
+"CardId": "6850",
+"CardName": "Radeon 6850",
+"CardAvgPrice": "80"
+},
+{
+"CardId": "6870",
+"CardName": "Radeon 6870",
+"CardAvgPrice": "NaN"
+},
+{
+"CardId": "6950",
+"CardName": "Radeon 6950",
+"CardAvgPrice": "NaN"
+},
+{
+"CardId": "6970",
+"CardName": "Radeon 6970",
+"CardAvgPrice": "190"
+},
+{
+"CardId": "6990",
+"CardName": "Radeon 6990",
+"CardAvgPrice": "NaN"
+},
+{
+"CardId": "7850",
+"CardName": "Radeon 7850",
+"CardAvgPrice": "150"
+},
+{
+"CardId": "7870",
+"CardName": "Radeon 7870",
+"CardAvgPrice": "260"
+},
+{
+"CardId": "7950",
+"CardName": "Radeon 7950",
+"CardAvgPrice": "339.666666666667"
+},
+{
+"CardId": "7970",
+"CardName": "Radeon 7970",
+"CardAvgPrice": "354.666666666667"
+},
+{
+"CardId": "7990",
+"CardName": "Radeon 7990",
+"CardAvgPrice": "NaN"
+},
+{
+"CardId": "270",
+"CardName": "Radeon 270X",
+"CardAvgPrice": "229.95"
+},
+{
+"CardId": "280",
+"CardName": "Radeon 280X",
+"CardAvgPrice": "430"
+}
+]

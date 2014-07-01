@@ -1,0 +1,107 @@
+averageCash: [ 
+{
+"Id": "5970",
+"Name": "Radeon 5970",
+"AvgHash": "764",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "6850",
+"Name": "Radeon 6850",
+"AvgHash": "253.857142857143",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "6870",
+"Name": "Radeon 6870",
+"AvgHash": "318.166666666667",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "6950",
+"Name": "Radeon 6950",
+"AvgHash": "465",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "6970",
+"Name": "Radeon 6970",
+"AvgHash": "470",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "6990",
+"Name": "Radeon 6990",
+"AvgHash": "850",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "7850",
+"Name": "Radeon 7850",
+"AvgHash": "373",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "7870",
+"Name": "Radeon 7870",
+"AvgHash": "383.333333333333",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "7950",
+"Name": "Radeon 7950",
+"AvgHash": "671.35",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "7970",
+"Name": "Radeon 7970",
+"AvgHash": "699.37037037037",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "7990",
+"Name": "Radeon 7990",
+"AvgHash": "1296.42857142857",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "270",
+"Name": "Radeon 270X",
+"AvgHash": "445.5",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "280",
+"Name": "Radeon 280X",
+"AvgHash": "720.724137931035",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "290",
+"Name": "Radeon 290",
+"AvgHash": "818.625",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+},
+{
+"Id": "291",
+"Name": "Radeon 290X",
+"AvgHash": "862",
+"AvgPrice": "NaN",
+"HashForCash": "NaN"
+}
+]

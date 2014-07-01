@@ -1,0 +1,9 @@
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\Example.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\Example.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\eBay.Service.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\eBay.Services.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\SLF.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\bin\eBay.Services.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\obj\Debug\FindAndWatch.csprojResolveAssemblyReference.cache
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\obj\Debug\Example.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\FindAndWatch\obj\Debug\Example.pdb

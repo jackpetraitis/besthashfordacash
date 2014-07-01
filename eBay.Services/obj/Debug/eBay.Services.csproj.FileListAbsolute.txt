@@ -1,0 +1,6 @@
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\bin\Debug\eBay.Services.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\bin\Debug\eBay.Services.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\bin\Debug\SLF.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\obj\Debug\eBay.Services.csprojResolveAssemblyReference.cache
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\obj\Debug\eBay.Services.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\eBay.Services\obj\Debug\eBay.Services.pdb

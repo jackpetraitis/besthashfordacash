@@ -1,0 +1,67 @@
+averagedHash: [ 
+{
+"CardId": "5970",
+"CardName": "Radeon 5970",
+"CardAvgHash": "764"
+},
+{
+"CardId": "6850",
+"CardName": "Radeon 6850",
+"CardAvgHash": "253.857142857143"
+},
+{
+"CardId": "6870",
+"CardName": "Radeon 6870",
+"CardAvgHash": "318.166666666667"
+},
+{
+"CardId": "6950",
+"CardName": "Radeon 6950",
+"CardAvgHash": "465"
+},
+{
+"CardId": "6970",
+"CardName": "Radeon 6970",
+"CardAvgHash": "470"
+},
+{
+"CardId": "6990",
+"CardName": "Radeon 6990",
+"CardAvgHash": "850"
+},
+{
+"CardId": "7850",
+"CardName": "Radeon 7850",
+"CardAvgHash": "373"
+},
+{
+"CardId": "7870",
+"CardName": "Radeon 7870",
+"CardAvgHash": "383.333333333333"
+},
+{
+"CardId": "7950",
+"CardName": "Radeon 7950",
+"CardAvgHash": "671.35"
+},
+{
+"CardId": "7970",
+"CardName": "Radeon 7970",
+"CardAvgHash": "699.37037037037"
+},
+{
+"CardId": "7990",
+"CardName": "Radeon 7990",
+"CardAvgHash": "1296.42857142857"
+},
+{
+"CardId": "270",
+"CardName": "Radeon 270X",
+"CardAvgHash": "445.5"
+},
+{
+"CardId": "280",
+"CardName": "Radeon 280X",
+"CardAvgHash": "720.724137931035"
+},
+]

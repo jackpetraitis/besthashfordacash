@@ -1,0 +1,11 @@
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\eBay.Services.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\SLF.dll
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\eBay.Services.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.csprojResolveAssemblyReference.cache
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.exe
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\obj\Debug\ConsoleFindItems.pdb
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\ConsoleFindItems.exe.config
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\HashForCash.mdf
+C:\Users\petraitj\Downloads\FindingKitDotNet_1.0\Samples\ConsoleFindItems\bin\Debug\HashForCash_log.ldf
